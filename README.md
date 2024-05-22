@@ -5,6 +5,12 @@ A Khmer word segmentation tool built for NIPTICT (now CADT) Khmer Word Segmentat
 > [!IMPORTANT]  
 > `km-5tag-seg-model` is required for this script to work. This library doesn't provide the model file.
 
+### Usage
+
+```
+pip install khmersegmenter
+```
+
 ```python
 from khmersegment import Segmenter
 
@@ -17,3 +23,7 @@ print(segmenter("Hello មិនដឹងប្រាប់អ្នកណាទ
 # => ['Hello', ' ', 'មិន', 'ដឹង', 'ប្រាប់', 'អ្នក', 'ណា', 'ទេ', '?']
 
 ```
+
+### License
+
+`Apache-2.0`
