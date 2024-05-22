@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="khmersegment",
-    version="0.1.0",
+    version="0.1.1",
     description="A Khmer word segmentation tool built for NIPTICT Khmer Word Segmentation CRF model.",
     long_description=long_description,
     long_description_content_type="text/markdown",

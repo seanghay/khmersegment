@@ -84,7 +84,7 @@ def tag(input_encodings, tagger, deep=False):
       continue
     
     if not deep:
-      if tag == "~":
+      if tag != "}{":
         continue
 
     yield chunk
