@@ -8,7 +8,7 @@ A Khmer word segmentation tool built for NIPTICT (now CADT) Khmer Word Segmentat
 ### Usage
 
 ```
-pip install khmersegmenter
+pip install khmersegment
 ```
 
 ```python
