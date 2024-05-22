@@ -27,3 +27,8 @@ print(segmenter("Hello មិនដឹងប្រាប់អ្នកណាទ
 ### License
 
 `Apache-2.0`
+
+
+### Related
+
+- [pycrfpp](https://github.com/seanghay/pycrfpp) Python binding for CRF++
